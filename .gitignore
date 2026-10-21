@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+data/*.json
+data/.*.tmp
+.test-artifacts/
+data/*.pid
+data/*.port
